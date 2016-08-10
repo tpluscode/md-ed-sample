@@ -1,0 +1,7 @@
+{
+  "jspm": {
+    "dependencies": {
+      "tpluscode/md-ed": "github:tpluscode/md-ed@master"
+    }
+  }
+}
