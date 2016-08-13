@@ -1,4 +1,4 @@
-## Consuming a bundled PolymerTS custom element with bower
+## Consuming a bundled PolymerTS custom element with Bower
 
 ```
 bower i
@@ -11,4 +11,4 @@ the element in action.
 
 ## JSPM
 
-For JSPM example, switch to JSPM branch
+For JSPM example, switch to [jspm branch](https://github.com/tpluscode/md-ed-sample/tree/jspm)
